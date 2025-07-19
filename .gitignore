@@ -1,0 +1,23 @@
+# OAuth & Sensitive Data
+.env
+.env.local
+*.env
+oauth_config.json
+*.pem
+*.cert
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# Testing
+coverage/
+.nyc_output/
+
+# Editor
+.vscode/
+.idea/
