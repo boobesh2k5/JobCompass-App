@@ -1,4 +1,4 @@
-Project Name: JobCompass - Advanced API Integration with GitHub OAuth
+Project Name : JobCompass - Advanced API Integration with GitHub OAuth
 Submitted by: M Boobeshwaran
 Date: 10-07-2025
 
