@@ -58,7 +58,7 @@ Open your browser and navigate to:
 Browsers: ✅ Chrome, ✅ Edge, ✅ Firefox
 Devices: ✅ Desktop, ✅ Tablet, ✅ Mobile
 
-📦 Dependencies
+📦Dependencies
 ✅ Bootstrap 5
 ✅ Express.js
 ✅ Axios
